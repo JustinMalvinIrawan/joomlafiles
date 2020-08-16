@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:148:"<option   value="2">iPhone Cases</option><option selected=\"selected\"  value="3">Samsung Case</option><option   value="1">XiaoMi Phonecase</option>";s:6:"output";s:0:"";}

@@ -1,0 +1,1 @@
+[11-Aug-2020 05:53:41 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/customer/www/justini.sgedu.site/public_html/Joomla/administrator/components/com_virtuemart/helpers/config.php' (include_path='.:/usr/local/php73/pear') in /home/customer/www/justini.sgedu.site/public_html/Joomla/plugins/vmcustom/istraxx_download_simple/install/install.php on line 27
